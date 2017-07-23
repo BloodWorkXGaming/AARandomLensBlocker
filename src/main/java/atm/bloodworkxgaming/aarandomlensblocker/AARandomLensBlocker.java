@@ -12,11 +12,11 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.Map;
 
-@Mod(modid = AARandomLensBlocker.MODID, version = AARandomLensBlocker.VERSION)
+@Mod(modid = AARandomLensBlocker.MODID, version = AARandomLensBlocker.VERSION, acceptedMinecraftVersions = "[1.10,1.12)")
 public class AARandomLensBlocker
 {
     public static final String MODID = "aarandomlensblocker";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "1.1";
 
     public static final Logger logger = LogManager.getLogger(MODID);
     
