@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aarandomlensblocker",
+  "name": "AARandomLensBlocker",
+  "description": "Mod that blocks the Disc 11 EasterEgg for the disruption lens",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BloodWorkXGaming"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
